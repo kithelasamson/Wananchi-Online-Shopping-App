@@ -1,0 +1,21 @@
+.checkout{
+	align-items: center;
+	flex-direction: row;
+	background-color: lightgoldenrodyellow;
+	color: cyan;
+	scroll-behavior: smooth;
+	scroll-margin-left: unset;
+}
+
+.Checkout_left{
+	animation: alternate-reverse;
+	font-family: sans-serif;
+	align-items: center;
+	align-content: space-between;
+}
+
+.items{
+	align-items: center;
+	align-content: center;
+	flex-grow: initial;
+}
